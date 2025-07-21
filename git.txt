@@ -1,0 +1,3 @@
+repository => depo
+branch => Dal
+depo dallara ayrilir ve dallarda yaptigimiz degisiklikleri commit ederiz.
